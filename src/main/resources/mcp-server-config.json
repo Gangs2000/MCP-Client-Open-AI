@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "claude-custom-api": {
+      "command": "C:/Program Files/Java/jdk-17/bin/java.exe",
+      "args": [
+        "-Dspring.ai.mcp.server.stdio=true",
+        "-jar",
+        "D:\\SpringBoot\\ClaudeAI\\target\\ClaudeAI-0.0.1-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
