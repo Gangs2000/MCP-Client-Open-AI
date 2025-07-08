@@ -17,4 +17,7 @@ In the previous project, we used Claude AI as a client, in this current demonstr
 
 <img width="955" alt="openAPIDashboard" src="https://github.com/user-attachments/assets/e5c51885-1a3c-4968-8761-9ceb6bab4066" />
 
+
+**mcp-server-config.json** is an important json file which contains configuration details about MCP server and target JAR that executed java code based on the given prompt. 
+
 OpenAI is a paid one, in order to use any model available in OpenAI, first we have to purchase some credits, then create an API key to use the models.
